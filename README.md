@@ -1,6 +1,5 @@
 # assignment2_cloudcomputing_diagram
 
-
 ```mermaid
 flowchart LR
 
